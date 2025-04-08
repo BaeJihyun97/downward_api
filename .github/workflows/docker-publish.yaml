@@ -32,5 +32,5 @@ jobs:
       with:
         context: .
         push: true
-        tags: yourdockerhubusername/downward-api:latest
+        tags: jihyunbae/downward-api:latest
         platforms: linux/amd64,linux/arm64

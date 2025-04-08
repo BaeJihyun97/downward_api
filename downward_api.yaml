@@ -6,7 +6,7 @@ metadata:
 spec:
   containers:
   - name: downward-api-container
-    image: yourdockerhubusername/downward-api:latest
+    image: jihyunbae/downward-api:latest
     ports:
     - containerPort: 8080
     env:
